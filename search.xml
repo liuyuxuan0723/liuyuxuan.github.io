@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/liuyuxuan0723.github.io/2024/03/14/Hello%20World/</url>
+    <url>/2024/03/14/Hello%20World/</url>
     <content><![CDATA[<h1 id="为什么要写博客"><a href="#为什么要写博客" class="headerlink" title="为什么要写博客"></a>为什么要写博客</h1><ul>
 <li><p>方便梳理记忆</p>
 </li>
@@ -23,7 +23,7 @@
   </entry>
   <entry>
     <title>Promethues手册</title>
-    <url>/liuyuxuan0723.github.io/2024/03/14/Promethues%E6%89%8B%E5%86%8C/</url>
+    <url>/2024/03/14/Promethues%E6%89%8B%E5%86%8C/</url>
     <content><![CDATA[<h2 id="Metrics类型"><a href="#Metrics类型" class="headerlink" title="Metrics类型"></a>Metrics类型</h2><p>promethues指标以向量的形式存储在时序数据中，每种metrics的存储都是一样的，但使用场景存在一定差异</p>
 <h4 id="Counter-只增不减的计数器"><a href="#Counter-只增不减的计数器" class="headerlink" title="Counter 只增不减的计数器"></a>Counter 只增不减的计数器</h4><ul>
 <li>http_requests_total   服务器请求总数</li>
@@ -122,7 +122,7 @@
   </entry>
   <entry>
     <title>效率工具整理</title>
-    <url>/liuyuxuan0723.github.io/2024/03/14/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86/</url>
+    <url>/2024/03/14/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>每次使用新设备，最最最讨厌的就是配环境，程序员懂得都懂，特别是笔者这种有强迫症的，一定要都配好了才能开始工作，痛定思痛，写一个一键配置的脚本，方便平常环境迁移。</p>
 <p>该脚本主要包含了日常工作使用的cli工具和各语言环境，每个都写好了安装指令，都是笔者常用的配置，直接运行也可以，会跳过已经安装的版本。目前只支持mac一键安装，win太麻烦了懒得写，还可能有各种奇怪的问题。</p>
 <h2 id="工具介绍"><a href="#工具介绍" class="headerlink" title="工具介绍"></a>工具介绍</h2><p>这儿只是抛出个引子大概介绍下每个工具干啥的怎么使用，也可以直接去官网看文档，会详细点。</p>
