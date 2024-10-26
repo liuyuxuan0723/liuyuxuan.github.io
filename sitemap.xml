@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://127.0.0.1:5500/blog/public/404/index.html</loc>
+    <loc>http://liuyuxuan0723.github.io/404/index.html</loc>
     
     <lastmod>2024-10-22</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://127.0.0.1:5500/blog/public/categories/index.html</loc>
+    <loc>http://liuyuxuan0723.github.io/categories/index.html</loc>
     
     <lastmod>2024-10-22</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://127.0.0.1:5500/blog/public/2024/03/14/Hello%20World/</loc>
+    <loc>http://liuyuxuan0723.github.io/2024/03/14/Hello%20World/</loc>
     
     <lastmod>2024-10-22</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://127.0.0.1:5500/blog/public/tags/index.html</loc>
+    <loc>http://liuyuxuan0723.github.io/tags/index.html</loc>
     
     <lastmod>2024-10-22</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://127.0.0.1:5500/blog/public/2024/03/14/Promethues%E6%89%8B%E5%86%8C/</loc>
+    <loc>http://liuyuxuan0723.github.io/2024/03/14/Promethues%E6%89%8B%E5%86%8C/</loc>
     
     <lastmod>2024-10-22</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://127.0.0.1:5500/blog/public/2024/03/14/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86/</loc>
+    <loc>http://liuyuxuan0723.github.io/2024/03/14/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E6%95%B4%E7%90%86/</loc>
     
     <lastmod>2024-10-22</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>http://127.0.0.1:5500/blog/public</loc>
+    <loc>http://liuyuxuan0723.github.io/</loc>
     <lastmod>2024-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,14 +65,14 @@
 
   
   <url>
-    <loc>http://127.0.0.1:5500/blog/public/tags/test/</loc>
+    <loc>http://liuyuxuan0723.github.io/tags/test/</loc>
     <lastmod>2024-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://127.0.0.1:5500/blog/public/tags/test1/</loc>
+    <loc>http://liuyuxuan0723.github.io/tags/test1/</loc>
     <lastmod>2024-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
